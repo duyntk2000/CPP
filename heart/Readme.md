@@ -1,2 +1,2 @@
-IDE : Code::Block \n
+IDE : Code::Block </br >
 Library : SFML
